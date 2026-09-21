@@ -63,4 +63,5 @@ Builder.
 ## CONCLUSION
 
 ### In conclusion, building a Custom GPT shows how modern generative AI tools let anyone — even without programming knowledge — create a specialised, organisation-branded chatbot in a few simple steps. By combining clear instructions, focused knowledge files, and the right capabilities, Saveetha Engineering College can offer students and visitors instant, accurate answers to their questions, saving time for both the institution and its users.
-
+---
+Google colab:https://colab.research.google.com/drive/1PLWO1YrcOFOxCjZkpq-t5C-AXrJOJS1-?usp=sharing
